@@ -2,13 +2,13 @@
 ![profile_KNA](https://user-images.githubusercontent.com/91732259/147854460-118c5352-ef46-4489-9fe2-70052c14e1ca.jpg)
 
 ## Background
-In this project, we will use data from the [Kaggle](https://www.kaggle.com/abedkhooli/arabic-100k-reviews). It's some Arabic datasets are on the market for classification comparison and different NLP tasks. This dataset is principally a compilation of many available datasets and a sampling of 100k rows.it is a talk abaote reviews and this review hsa three type Negative, Positive and Mixed.
- 
+In this project, we will use data from the [Kaggle](https://www.kaggle.com/abedkhooli/arabic-100k-reviews).  It's some Arabic datasets are on the market for classification comparison and different NLP tasks. This dataset is principally a compilation of many available datasets and a sampling of 100k rows.it is a talk about reviews and this review a three type Negative, Positive and Mixed.
+
 <br/>
 <br/>
 
 ## Prediction
- Creat model to Predict tayp of text it's Negative or Positive or Mixed
+Create a model to Predict the type of text it's Negative Positive or Mixed.
 <br/>
 <br/>
 
